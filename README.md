@@ -8,7 +8,9 @@
 Here are some ideas to get you started:
 
 -I'm a Editor.
+
 -I'm a Photographer
+
 -I'm interesting in programming 
 
 
