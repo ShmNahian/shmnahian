@@ -11,13 +11,6 @@
 <a href="https://instagram.com/shm_nahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shm_nahi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shm_nahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shm_nahi" height="30" width="40" /></a>
 </p>
-<a href="https://codeforces.com/profile/Shmnahian">
-    <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/Shmnahian"/>
-</a>
-
-<a href="https://www.codechef.com/users/shmnahian">
-    <img alt="Codechef" src="https://cp-logo.vercel.app/codechef/shmnahian"/>
-</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmnahian&label=Profile%20views&color=0e75b6&style=plastic" alt="shmnahian" /> </p>
 
