@@ -4,20 +4,37 @@
 <h1 align="center">Hi 👋, I'm Shamsul Huda Md Nahian</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmnahian&label=Profile%20views&color=0e75b6&style=flat" alt="shmnahian" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<img align="right"alt="coding"width="400" src="https://camo.githubusercontent.com/c7e2ca28de4726d848194ebbb60d6f91ff1188a781fb370e0aa8dab942cc9c50/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313637302f312a5a53566d57476363317765454e6230536861775778772e676966">
+
+
+---
+
+## 📫 Let’s Connect  
+
 <p align="left">
-<a href="https://twitter.com/shm_nahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shm_nahi" height="30" width="40" /></a>
-<a href="https://instagram.com/shm_nahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shm_nahi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shm_nahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shm_nahi" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shamsul-huda-md-nahian-051980277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shmnahian&show_icons=true&locale=en&layout=compact" alt="shmnahian" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shmnahian&show_icons=true&locale=en" alt="shmnahian" /></p>
+<p align="left">
+  <a href="mailto:nahianshamsulhudamd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-nahianshamsulhudamd%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/ShmNahian" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shmnahian&" alt="shmnahian" /></p>
+---
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ShmNahian/ShmNahian/output/github-snake-dark.svg)  
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FFA500&center=true&vCenter=true&width=1000&lines=+Don’t+compare+yourself+with+anyone+in+this+world.;If+you+do+so,+you+are+insulting+yourself.+—+Bill+Gates" alt="Bill Gates Quote" />
+</p>
+
+---
