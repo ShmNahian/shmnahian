@@ -28,7 +28,7 @@
 </p>
 
 ---
-![GitHub Snake Dark](https://raw.githubusercontent.com/shmNahian/ShmNahian/output/github-snake-dark.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ShmNahian/ShmNahian/output/github-snake-dark.svg)
 
 
 
