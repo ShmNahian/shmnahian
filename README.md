@@ -29,7 +29,7 @@
 
 ---
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/ShmNahian/ShmNahian/output/github-snake-dark.svg)  
+![GitHub Snake Dark](https://raw.githubusercontent.com/shmnahian/shmnahian/output/github-snake-dark.svg)  
 
 ---
 
