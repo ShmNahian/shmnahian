@@ -18,11 +18,7 @@
 
 
 
-
-<!-- ================= GITHUB SNAKE ================= -->
-![GitHub Snake Dark](https://raw.githubusercontent.com/ShmNahian/ShmNahian/output/github-snake-dark.svg)
-
----
+![snake animation](https://github.com/<seu ShmNahian>/<seu ShmNahian>/blob/output/github-contribution-grid-snake2.svg)
 
 
 <p align="center">
