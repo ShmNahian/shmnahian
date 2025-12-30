@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&pause=1000&width=435&lines=Tatakai+Tatakai++.+.+.+)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Shamsul Huda Md Nahian</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmnahian&label=Profile%20views&color=0e75b6&style=flat" alt="shmnahian" /> </p>
 
 
