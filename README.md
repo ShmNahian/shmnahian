@@ -19,8 +19,5 @@
 .
 .
 
-<br clear="both">
+![GitHub Snake Dark](https://raw.githubusercontent.com/ShmNahian/ShmNahian/output/github-snake-dark.svg)
 
-<img src="https://github.com/ShmNahian/ShmNahian/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-## My Contribution snake
-![Contribution snake example](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
