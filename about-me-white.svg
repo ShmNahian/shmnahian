@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220">
+  <defs>
+    <!-- Glow effect for white -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .line {
+        fill: #FFFFFF; /* White */
+        font-family: "Fira Code", Consolas, "Segoe UI", system-ui, sans-serif;
+        font-size: 18px;
+        filter: url(#glow);
+      }
+      .title {
+        fill: #FFFFFF; /* White */
+        font-family: "Fira Code", Consolas, "Segoe UI", system-ui, sans-serif;
+        font-size: 26px;
+        font-weight: 700;
+        filter: url(#glow);
+      }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <!-- Title line -->
+  <text class="title" x="0" y="40">
+    I’m Mohammed Minul Islam
+  </text>
+
+  <!-- Sub lines -->
+  <text class="line" x="0" y="80">
+    A passionate Flutter Developer and CSE undergraduate who loves turning ideas into elegant mobile apps.
+  </text>
+
+  <text class="line" x="0" y="120">
+    Beyond building cross-platform solutions, I challenge myself through competitive programming,
+    which keeps my problem-solving sharp and my coding efficient.
+  </text>
+
+  <text class="line" x="0" y="160">
+    I thrive where creativity meets logic, combining technical depth with adaptability,
+    clear communication, and teamwork.
+  </text>
+
+  <text class="line" x="0" y="200">
+    My goal is simple — to keep learning, building, and contributing to impactful projects that make a difference.
+  </text>
+</svg>
