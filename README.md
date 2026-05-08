@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shmnahian&label=Profile%20views&color=0e75b6&style=flat" alt="shmnahian" /> </p>
 
-<h2 align="left">Hi 👋! My name is Shamsul Huda Md Nahian and I'm currently a Student.</h2>
+<h2 align="left">Hi 👋! My name is Shamsul Huda Md Nahian </h2>
 
 
 
